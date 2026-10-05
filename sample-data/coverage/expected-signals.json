@@ -1,0 +1,38 @@
+{
+  "synthetic": true,
+  "entity": "SYNTHETIC \u00b7 Northstar Power",
+  "period_start": "2026-09-01T00:00:00+00:00",
+  "period_end": "2026-10-01T00:00:00+00:00",
+  "planted_evidence_ids": {
+    "fast_closure": [],
+    "missing_escalation": [
+      "NOR-09-CASE-0006",
+      "NOR-09-CASE-0011",
+      "NOR-09-CASE-0016"
+    ],
+    "repeated_notes": [],
+    "coverage_gap": [
+      "NOR-ASSET-01",
+      "NOR-ASSET-02",
+      "NOR-ASSET-03"
+    ],
+    "unlinked_case": [
+      "NOR-09-ALERT-0021",
+      "NOR-09-ALERT-0022",
+      "NOR-09-ALERT-0023"
+    ],
+    "closure_outlier": [],
+    "sla_edge": [],
+    "recurring_alerts": [],
+    "expected_category": [
+      "NOR-ASSET-01",
+      "NOR-ASSET-02"
+    ],
+    "workflow_gap": [],
+    "oversight_gap": [],
+    "recovery_gap": [
+      "NOR-09-CASE-0011",
+      "NOR-09-CASE-0021"
+    ]
+  }
+}

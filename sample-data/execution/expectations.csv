@@ -1,0 +1,13 @@
+expectation_id,asset_id,category,min_alerts,expectation_basis,approved_exception
+ATL-EXPECT-0,ATL-ASSET-01,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-1,ATL-ASSET-02,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-2,ATL-ASSET-03,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-3,ATL-ASSET-04,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-4,ATL-ASSET-05,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-5,ATL-ASSET-06,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-6,ATL-ASSET-07,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-7,ATL-ASSET-08,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-8,ATL-ASSET-09,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-9,ATL-ASSET-10,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-10,ATL-ASSET-11,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+ATL-EXPECT-11,ATL-ASSET-12,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false

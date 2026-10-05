@@ -1,0 +1,20 @@
+[
+  {
+    "command": [
+      "node",
+      "tests/test_frontend.js"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS overview\nPASS entitiesPage\nPASS findingsPage\nPASS reviewPage\nPASS uploadPage\nPASS reportsPage\nPASS methodologyPage\nPASS untrusted text escaping\nPASS assessment workflow, record tabs, finding tabs and explanation escaping\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "node",
+      "tests/test_workflow.js"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS repeated upload \u2192 exact assessment \u2192 cleared filters \u2192 same-engine re-analysis preserves history\nPASS login \u2192 bundle load \u2192 validate \u2192 import \u2192 assessment \u2192 ranked sample \u2192 record explanations \u2192 source/timeline \u2192 examiner decision \u2192 refreshed evidence \u2192 independent evidence \u2192 saved observation \u2192 blinded export \u2192 expert comparison \u2192 HTML export\n",
+    "stderr": ""
+  }
+]

@@ -1,0 +1,13 @@
+asset_id,asset_type,criticality,expected_monitoring,name
+NOR-ASSET-01,server,critical,true,Synthetic system 1
+NOR-ASSET-02,server,critical,true,Synthetic system 2
+NOR-ASSET-03,server,critical,true,Synthetic system 3
+NOR-ASSET-04,server,critical,true,Synthetic system 4
+NOR-ASSET-05,server,critical,true,Synthetic system 5
+NOR-ASSET-06,server,critical,true,Synthetic system 6
+NOR-ASSET-07,server,high,true,Synthetic system 7
+NOR-ASSET-08,server,high,true,Synthetic system 8
+NOR-ASSET-09,server,high,true,Synthetic system 9
+NOR-ASSET-10,gateway,high,true,Synthetic system 10
+NOR-ASSET-11,gateway,high,true,Synthetic system 11
+NOR-ASSET-12,gateway,high,true,Synthetic system 12

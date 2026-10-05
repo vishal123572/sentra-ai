@@ -1,0 +1,13 @@
+expectation_id,asset_id,category,min_alerts,expectation_basis,approved_exception
+NOR-EXPECT-0,NOR-ASSET-01,Scheduled security test,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-1,NOR-ASSET-02,Scheduled security test,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-2,NOR-ASSET-03,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-3,NOR-ASSET-04,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-4,NOR-ASSET-05,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-5,NOR-ASSET-06,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-6,NOR-ASSET-07,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-7,NOR-ASSET-08,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-8,NOR-ASSET-09,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-9,NOR-ASSET-10,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-10,NOR-ASSET-11,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+NOR-EXPECT-11,NOR-ASSET-12,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false

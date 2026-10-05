@@ -1,0 +1,13 @@
+asset_id,asset_type,criticality,expected_monitoring,name
+ATL-ASSET-01,server,critical,true,Synthetic system 1
+ATL-ASSET-02,server,critical,true,Synthetic system 2
+ATL-ASSET-03,server,critical,true,Synthetic system 3
+ATL-ASSET-04,server,critical,true,Synthetic system 4
+ATL-ASSET-05,server,critical,true,Synthetic system 5
+ATL-ASSET-06,server,critical,true,Synthetic system 6
+ATL-ASSET-07,server,high,true,Synthetic system 7
+ATL-ASSET-08,server,high,true,Synthetic system 8
+ATL-ASSET-09,server,high,true,Synthetic system 9
+ATL-ASSET-10,gateway,high,true,Synthetic system 10
+ATL-ASSET-11,gateway,high,true,Synthetic system 11
+ATL-ASSET-12,gateway,high,true,Synthetic system 12

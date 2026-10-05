@@ -1,0 +1,4 @@
+# Postgres is used by the hosted deployment. ML runs locally in either mode.
+psycopg[binary]>=3.2,<4
+scikit-learn>=1.6,<2
+numpy>=1.26,<3

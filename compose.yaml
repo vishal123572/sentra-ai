@@ -1,0 +1,21 @@
+services:
+  satsa:
+    build: .
+    image: satsa:1.3.0
+    ports:
+      - "127.0.0.1:8080:8080"
+    volumes:
+      - satsa-data:/data
+    environment:
+      SATSA_ADMIN_USER: examiner
+      SATSA_SECURE_COOKIE: "0"
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  satsa-data:

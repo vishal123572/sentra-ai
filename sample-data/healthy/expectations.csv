@@ -1,0 +1,13 @@
+expectation_id,asset_id,category,min_alerts,expectation_basis,approved_exception
+MER-EXPECT-0,MER-ASSET-01,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-1,MER-ASSET-02,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-2,MER-ASSET-03,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-3,MER-ASSET-04,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-4,MER-ASSET-05,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-5,MER-ASSET-06,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-6,MER-ASSET-07,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-7,MER-ASSET-08,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-8,MER-ASSET-09,Authentication anomaly,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-9,MER-ASSET-10,Endpoint detection,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-10,MER-ASSET-11,Privilege change,1,Synthetic monthly test schedule expects one event in this category.,false
+MER-EXPECT-11,MER-ASSET-12,Network policy event,1,Synthetic monthly test schedule expects one event in this category.,false

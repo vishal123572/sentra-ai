@@ -1,0 +1,20 @@
+[Unit]
+Description=SAT-SA offline assessment workbench
+After=network.target
+
+[Service]
+Type=simple
+User=satsa
+Group=satsa
+WorkingDirectory=/opt/satsa
+ExecStart=/usr/bin/python3 /opt/satsa/run.py --host 127.0.0.1 --port 8080 --database /var/lib/satsa/satsa.sqlite3
+Restart=on-failure
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/satsa
+
+[Install]
+WantedBy=multi-user.target

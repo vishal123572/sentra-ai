@@ -1,0 +1,161 @@
+alert_id,asset_id,category,severity,created_at,acknowledged_at,case_id
+TE-AL-0001,TE-AS-06,Synthetic data exfiltration indicator,critical,2026-09-01T00:41:04Z,,TE-CS-0001
+TE-AL-0002,TE-AS-03,Synthetic authentication anomaly,high,2026-09-01T03:35:57Z,,TE-CS-0002
+TE-AL-0003,TE-AS-07,Synthetic authentication anomaly,medium,2026-09-01T10:08:24Z,,TE-CS-0003
+TE-AL-0004,TE-AS-11,Synthetic configuration drift,critical,2026-09-01T11:12:29Z,2026-09-01T11:16:41Z,TE-CS-0004
+TE-AL-0005,TE-AS-02,Synthetic authentication anomaly,high,2026-09-01T14:43:30Z,,TE-CS-0005
+TE-AL-0006,TE-AS-08,Synthetic vulnerability exploit attempt,medium,2026-09-01T18:13:47Z,2026-09-01T18:23:11Z,TE-CS-0006
+TE-AL-0007,TE-AS-10,Synthetic privilege escalation attempt,critical,2026-09-01T22:00:31Z,,TE-CS-0007
+TE-AL-0008,TE-AS-01,Synthetic policy violation,medium,2026-09-02T04:20:49Z,,TE-CS-0008
+TE-AL-0009,TE-AS-07,Synthetic data exfiltration indicator,high,2026-09-02T04:49:50Z,2026-09-02T05:00:56Z,TE-CS-0009
+TE-AL-0010,TE-AS-01,Synthetic lateral movement indicator,high,2026-09-02T05:52:48Z,2026-09-02T05:58:42Z,TE-CS-0010
+TE-AL-0011,TE-AS-06,Synthetic configuration drift,critical,2026-09-02T22:40:16Z,,TE-CS-0011
+TE-AL-0012,TE-AS-03,Synthetic policy violation,medium,2026-09-03T01:54:53Z,,TE-CS-0012
+TE-AL-0013,TE-AS-03,Synthetic privilege escalation attempt,medium,2026-09-03T02:18:34Z,2026-09-03T02:34:22Z,TE-CS-0013
+TE-AL-0014,TE-AS-02,Synthetic policy violation,low,2026-09-03T02:23:41Z,,TE-CS-0014
+TE-AL-0015,TE-AS-02,Synthetic privilege escalation attempt,medium,2026-09-03T04:28:26Z,2026-09-03T04:42:56Z,TE-CS-0015
+TE-AL-0016,TE-AS-08,Synthetic network scan,critical,2026-09-03T06:15:47Z,2026-09-03T06:20:23Z,TE-CS-0016
+TE-AL-0017,TE-AS-02,Synthetic lateral movement indicator,critical,2026-09-03T06:47:51Z,,TE-CS-0017
+TE-AL-0018,TE-AS-02,Synthetic data exfiltration indicator,critical,2026-09-03T10:50:39Z,2026-09-03T11:12:27Z,TE-CS-0018
+TE-AL-0019,TE-AS-05,Synthetic vulnerability exploit attempt,high,2026-09-03T10:51:40Z,2026-09-03T11:06:22Z,TE-CS-0019
+TE-AL-0020,TE-AS-03,Synthetic authentication anomaly,high,2026-09-03T12:44:38Z,,TE-CS-0020
+TE-AL-0021,TE-AS-12,Synthetic vulnerability exploit attempt,high,2026-09-04T03:08:23Z,,TE-CS-0021
+TE-AL-0022,TE-AS-03,Synthetic data exfiltration indicator,medium,2026-09-04T07:07:00Z,,TE-CS-0022
+TE-AL-0023,TE-AS-05,Synthetic policy violation,critical,2026-09-04T15:51:50Z,,TE-CS-0023
+TE-AL-0024,TE-AS-06,Synthetic network scan,medium,2026-09-04T21:55:44Z,,TE-CS-0024
+TE-AL-0025,TE-AS-03,Synthetic data exfiltration indicator,medium,2026-09-05T03:29:22Z,,TE-CS-0025
+TE-AL-0026,TE-AS-02,Synthetic authentication anomaly,critical,2026-09-05T05:09:34Z,,TE-CS-0026
+TE-AL-0027,TE-AS-05,Synthetic configuration drift,high,2026-09-05T06:35:59Z,,TE-CS-0027
+TE-AL-0028,TE-AS-08,Synthetic lateral movement indicator,medium,2026-09-05T09:06:12Z,,TE-CS-0028
+TE-AL-0029,TE-AS-12,Synthetic privilege escalation attempt,high,2026-09-05T17:06:24Z,,TE-CS-0029
+TE-AL-0030,TE-AS-09,Synthetic configuration drift,high,2026-09-05T18:41:22Z,,TE-CS-0030
+TE-AL-0031,TE-AS-11,Synthetic data exfiltration indicator,high,2026-09-05T20:21:36Z,,TE-CS-0031
+TE-AL-0032,TE-AS-07,Synthetic privilege escalation attempt,high,2026-09-05T21:09:56Z,,TE-CS-0032
+TE-AL-0033,TE-AS-04,Synthetic authentication anomaly,high,2026-09-06T01:05:53Z,2026-09-06T01:13:59Z,TE-CS-0033
+TE-AL-0034,TE-AS-01,Synthetic vulnerability exploit attempt,info,2026-09-06T17:07:09Z,,TE-CS-0034
+TE-AL-0035,TE-AS-02,Synthetic network scan,medium,2026-09-06T20:46:41Z,,TE-CS-0035
+TE-AL-0036,TE-AS-01,Synthetic authentication anomaly,medium,2026-09-06T21:09:33Z,,TE-CS-0036
+TE-AL-0037,TE-AS-09,Synthetic authentication anomaly,high,2026-09-06T23:07:19Z,,TE-CS-0037
+TE-AL-0038,TE-AS-05,Synthetic phishing report,high,2026-09-07T02:44:27Z,,TE-CS-0038
+TE-AL-0039,TE-AS-04,Synthetic policy violation,low,2026-09-07T03:22:32Z,,TE-CS-0039
+TE-AL-0040,TE-AS-01,Synthetic privilege escalation attempt,high,2026-09-07T12:02:20Z,,TE-CS-0040
+TE-AL-0041,TE-AS-06,Synthetic policy violation,medium,2026-09-07T14:02:06Z,,TE-CS-0041
+TE-AL-0042,TE-AS-12,Synthetic authentication anomaly,high,2026-09-07T15:18:04Z,,TE-CS-0042
+TE-AL-0043,TE-AS-03,Synthetic authentication anomaly,medium,2026-09-07T18:27:01Z,,TE-CS-0043
+TE-AL-0044,TE-AS-06,Synthetic scheduled test: detection canary,info,2026-09-07T22:53:38Z,,TE-CS-0044
+TE-AL-0045,TE-AS-05,Synthetic network scan,critical,2026-09-08T03:56:38Z,,TE-CS-0045
+TE-AL-0046,TE-AS-03,Synthetic vulnerability exploit attempt,critical,2026-09-08T05:46:02Z,2026-09-08T06:01:20Z,TE-CS-0046
+TE-AL-0047,TE-AS-11,Synthetic configuration drift,high,2026-09-08T14:38:01Z,,TE-CS-0047
+TE-AL-0048,TE-AS-06,Synthetic privilege escalation attempt,info,2026-09-08T20:18:13Z,,TE-CS-0048
+TE-AL-0049,TE-AS-07,Synthetic configuration drift,high,2026-09-09T08:41:33Z,,TE-CS-0049
+TE-AL-0050,TE-AS-05,Synthetic configuration drift,high,2026-09-09T09:19:16Z,,TE-CS-0050
+TE-AL-0051,TE-AS-03,Synthetic malware detection,high,2026-09-09T10:50:42Z,,TE-CS-0051
+TE-AL-0052,TE-AS-06,Synthetic malware detection,high,2026-09-09T11:50:03Z,,TE-CS-0052
+TE-AL-0053,TE-AS-05,Synthetic vulnerability exploit attempt,medium,2026-09-09T17:35:17Z,2026-09-09T17:52:05Z,TE-CS-0053
+TE-AL-0054,TE-AS-05,Synthetic malware detection,critical,2026-09-09T22:35:22Z,,TE-CS-0054
+TE-AL-0055,TE-AS-07,Synthetic network scan,medium,2026-09-10T06:01:09Z,,TE-CS-0055
+TE-AL-0056,TE-AS-09,Synthetic policy violation,high,2026-09-10T12:13:28Z,,TE-CS-0056
+TE-AL-0057,TE-AS-07,Synthetic network scan,medium,2026-09-10T14:08:09Z,,TE-CS-0057
+TE-AL-0058,TE-AS-11,Synthetic lateral movement indicator,high,2026-09-10T20:11:43Z,,TE-CS-0058
+TE-AL-0059,TE-AS-02,Synthetic scheduled test: backup restore,low,2026-09-11T17:28:44Z,,TE-CS-0059
+TE-AL-0060,TE-AS-02,Synthetic malware detection,high,2026-09-11T20:06:32Z,2026-09-11T20:25:50Z,TE-CS-0060
+TE-AL-0061,TE-AS-08,Synthetic data exfiltration indicator,high,2026-09-11T21:22:49Z,,TE-CS-0061
+TE-AL-0062,TE-AS-04,Synthetic vulnerability exploit attempt,critical,2026-09-11T22:21:21Z,,TE-CS-0062
+TE-AL-0063,TE-AS-01,Synthetic network scan,high,2026-09-11T23:28:34Z,,TE-CS-0063
+TE-AL-0064,TE-AS-02,Synthetic data exfiltration indicator,critical,2026-09-12T01:47:52Z,,TE-CS-0064
+TE-AL-0065,TE-AS-09,Synthetic lateral movement indicator,critical,2026-09-12T07:09:30Z,2026-09-12T07:14:12Z,TE-CS-0065
+TE-AL-0066,TE-AS-12,Synthetic network scan,high,2026-09-12T07:11:06Z,,TE-CS-0066
+TE-AL-0067,TE-AS-01,Synthetic network scan,low,2026-09-12T11:08:35Z,,TE-CS-0067
+TE-AL-0068,TE-AS-08,Synthetic phishing report,high,2026-09-13T02:49:28Z,,TE-CS-0068
+TE-AL-0069,TE-AS-06,Synthetic network scan,high,2026-09-13T08:39:52Z,,TE-CS-0069
+TE-AL-0070,TE-AS-06,Synthetic policy violation,high,2026-09-13T12:35:31Z,,TE-CS-0070
+TE-AL-0071,TE-AS-06,Synthetic authentication anomaly,high,2026-09-13T17:16:46Z,,TE-CS-0071
+TE-AL-0072,TE-AS-06,Synthetic lateral movement indicator,info,2026-09-13T18:18:29Z,,TE-CS-0072
+TE-AL-0073,TE-AS-08,Synthetic scheduled test: log pipeline heartbeat,info,2026-09-13T21:38:04Z,,TE-CS-0073
+TE-AL-0074,TE-AS-10,Synthetic malware detection,critical,2026-09-13T22:40:55Z,2026-09-13T23:03:43Z,TE-CS-0074
+TE-AL-0075,TE-AS-01,Synthetic authentication anomaly,medium,2026-09-13T23:52:22Z,,TE-CS-0075
+TE-AL-0076,TE-AS-11,Synthetic phishing report,low,2026-09-13T23:54:00Z,2026-09-14T00:17:24Z,TE-CS-0076
+TE-AL-0077,TE-AS-04,Synthetic phishing report,low,2026-09-14T06:04:47Z,,TE-CS-0077
+TE-AL-0078,TE-AS-03,Synthetic vulnerability exploit attempt,medium,2026-09-15T04:17:34Z,2026-09-15T04:40:46Z,TE-CS-0078
+TE-AL-0079,TE-AS-11,Synthetic privilege escalation attempt,critical,2026-09-15T04:59:01Z,2026-09-15T05:21:07Z,TE-CS-0079
+TE-AL-0080,TE-AS-08,Synthetic network scan,info,2026-09-15T07:06:24Z,2026-09-15T07:15:18Z,TE-CS-0080
+TE-AL-0081,TE-AS-04,Synthetic phishing report,high,2026-09-15T15:13:24Z,,TE-CS-0081
+TE-AL-0082,TE-AS-08,Synthetic vulnerability exploit attempt,high,2026-09-15T20:33:42Z,2026-09-15T20:42:18Z,TE-CS-0082
+TE-AL-0083,TE-AS-04,Synthetic policy violation,medium,2026-09-16T07:25:58Z,2026-09-16T07:48:04Z,TE-CS-0083
+TE-AL-0084,TE-AS-10,Synthetic network scan,medium,2026-09-16T09:44:29Z,,TE-CS-0084
+TE-AL-0085,TE-AS-01,Synthetic configuration drift,low,2026-09-16T11:58:23Z,,TE-CS-0085
+TE-AL-0086,TE-AS-08,Synthetic authentication anomaly,high,2026-09-16T12:59:52Z,2026-09-16T13:08:22Z,TE-CS-0086
+TE-AL-0087,TE-AS-06,Synthetic authentication anomaly,high,2026-09-16T16:02:44Z,,TE-CS-0087
+TE-AL-0088,TE-AS-03,Synthetic lateral movement indicator,high,2026-09-16T18:27:33Z,2026-09-16T18:33:33Z,TE-CS-0088
+TE-AL-0089,TE-AS-12,Synthetic data exfiltration indicator,low,2026-09-16T20:14:36Z,2026-09-16T20:22:30Z,TE-CS-0089
+TE-AL-0090,TE-AS-07,Synthetic configuration drift,medium,2026-09-16T21:53:14Z,,TE-CS-0090
+TE-AL-0091,TE-AS-02,Synthetic privilege escalation attempt,high,2026-09-17T01:30:55Z,,TE-CS-0091
+TE-AL-0092,TE-AS-01,Synthetic vulnerability exploit attempt,critical,2026-09-17T08:27:28Z,2026-09-17T08:46:16Z,TE-CS-0092
+TE-AL-0093,TE-AS-07,Synthetic malware detection,medium,2026-09-17T18:58:44Z,,TE-CS-0093
+TE-AL-0094,TE-AS-08,Synthetic policy violation,critical,2026-09-17T20:24:47Z,,TE-CS-0094
+TE-AL-0095,TE-AS-08,Synthetic lateral movement indicator,medium,2026-09-17T21:27:05Z,,TE-CS-0095
+TE-AL-0096,TE-AS-10,Synthetic lateral movement indicator,critical,2026-09-17T21:55:05Z,,TE-CS-0096
+TE-AL-0097,TE-AS-10,Synthetic privilege escalation attempt,medium,2026-09-18T00:53:03Z,2026-09-18T01:00:03Z,TE-CS-0097
+TE-AL-0098,TE-AS-01,Synthetic data exfiltration indicator,high,2026-09-18T12:08:12Z,,TE-CS-0098
+TE-AL-0099,TE-AS-08,Synthetic scheduled test: log pipeline heartbeat,low,2026-09-18T13:43:15Z,,TE-CS-0099
+TE-AL-0100,TE-AS-03,Synthetic network scan,critical,2026-09-18T15:52:25Z,,TE-CS-0100
+TE-AL-0101,TE-AS-06,Synthetic lateral movement indicator,medium,2026-09-18T22:33:27Z,,TE-CS-0101
+TE-AL-0102,TE-AS-05,Synthetic privilege escalation attempt,high,2026-09-18T23:04:42Z,2026-09-18T23:22:12Z,TE-CS-0102
+TE-AL-0103,TE-AS-11,Synthetic vulnerability exploit attempt,critical,2026-09-19T03:28:29Z,,TE-CS-0103
+TE-AL-0104,TE-AS-05,Synthetic configuration drift,medium,2026-09-19T10:16:29Z,,TE-CS-0104
+TE-AL-0105,TE-AS-12,Synthetic configuration drift,high,2026-09-19T10:28:22Z,2026-09-19T10:31:34Z,TE-CS-0105
+TE-AL-0106,TE-AS-05,Synthetic configuration drift,medium,2026-09-19T15:04:25Z,,TE-CS-0106
+TE-AL-0107,TE-AS-03,Synthetic phishing report,medium,2026-09-19T16:13:33Z,,TE-CS-0107
+TE-AL-0108,TE-AS-10,Synthetic vulnerability exploit attempt,high,2026-09-19T17:57:03Z,,TE-CS-0108
+TE-AL-0109,TE-AS-03,Synthetic authentication anomaly,high,2026-09-19T20:23:14Z,,TE-CS-0109
+TE-AL-0110,TE-AS-05,Synthetic lateral movement indicator,low,2026-09-19T23:43:02Z,2026-09-19T23:53:44Z,TE-CS-0110
+TE-AL-0111,TE-AS-12,Synthetic privilege escalation attempt,medium,2026-09-20T05:34:08Z,,TE-CS-0111
+TE-AL-0112,TE-AS-09,Synthetic privilege escalation attempt,high,2026-09-20T21:20:12Z,,TE-CS-0112
+TE-AL-0113,TE-AS-05,Synthetic data exfiltration indicator,medium,2026-09-20T22:09:18Z,,TE-CS-0113
+TE-AL-0114,TE-AS-10,Synthetic configuration drift,high,2026-09-21T03:16:11Z,2026-09-21T03:20:11Z,TE-CS-0114
+TE-AL-0115,TE-AS-09,Synthetic configuration drift,info,2026-09-21T20:15:50Z,2026-09-21T20:33:32Z,TE-CS-0115
+TE-AL-0116,TE-AS-08,Synthetic policy violation,high,2026-09-22T04:05:57Z,,TE-CS-0116
+TE-AL-0117,TE-AS-10,Synthetic configuration drift,medium,2026-09-22T04:54:06Z,,TE-CS-0117
+TE-AL-0118,TE-AS-03,Synthetic lateral movement indicator,medium,2026-09-22T05:51:30Z,,TE-CS-0118
+TE-AL-0119,TE-AS-02,Synthetic vulnerability exploit attempt,high,2026-09-22T06:43:00Z,,TE-CS-0119
+TE-AL-0120,TE-AS-05,Synthetic configuration drift,medium,2026-09-22T07:21:58Z,,TE-CS-0120
+TE-AL-0121,TE-AS-05,Synthetic policy violation,high,2026-09-22T09:58:42Z,,TE-CS-0121
+TE-AL-0122,TE-AS-02,Synthetic phishing report,high,2026-09-22T13:21:36Z,2026-09-22T13:29:00Z,TE-CS-0122
+TE-AL-0123,TE-AS-11,Synthetic lateral movement indicator,medium,2026-09-22T18:54:33Z,,TE-CS-0123
+TE-AL-0124,TE-AS-09,Synthetic vulnerability exploit attempt,low,2026-09-22T20:52:31Z,2026-09-22T21:03:25Z,TE-CS-0124
+TE-AL-0125,TE-AS-02,Synthetic scheduled test: backup restore,low,2026-09-22T23:04:33Z,,TE-CS-0125
+TE-AL-0126,TE-AS-09,Synthetic data exfiltration indicator,high,2026-09-23T08:31:53Z,2026-09-23T08:53:23Z,TE-CS-0126
+TE-AL-0127,TE-AS-06,Synthetic malware detection,medium,2026-09-23T13:59:49Z,2026-09-23T14:23:25Z,TE-CS-0127
+TE-AL-0128,TE-AS-01,Synthetic scheduled test: failover drill,info,2026-09-23T15:25:48Z,,TE-CS-0128
+TE-AL-0129,TE-AS-09,Synthetic data exfiltration indicator,medium,2026-09-23T22:06:44Z,2026-09-23T22:16:14Z,TE-CS-0129
+TE-AL-0130,TE-AS-05,Synthetic malware detection,high,2026-09-24T10:06:04Z,,TE-CS-0130
+TE-AL-0131,TE-AS-03,Synthetic configuration drift,medium,2026-09-24T14:06:22Z,,TE-CS-0131
+TE-AL-0132,TE-AS-07,Synthetic policy violation,high,2026-09-24T22:16:50Z,,TE-CS-0132
+TE-AL-0133,TE-AS-02,Synthetic malware detection,high,2026-09-24T23:52:47Z,,TE-CS-0133
+TE-AL-0134,TE-AS-07,Synthetic authentication anomaly,high,2026-09-25T01:37:38Z,,TE-CS-0134
+TE-AL-0135,TE-AS-04,Synthetic vulnerability exploit attempt,critical,2026-09-25T18:30:21Z,,TE-CS-0135
+TE-AL-0136,TE-AS-12,Synthetic data exfiltration indicator,low,2026-09-25T23:35:53Z,,TE-CS-0136
+TE-AL-0137,TE-AS-10,Synthetic policy violation,high,2026-09-26T12:12:47Z,2026-09-26T12:35:47Z,TE-CS-0137
+TE-AL-0138,TE-AS-07,Synthetic vulnerability exploit attempt,high,2026-09-26T13:46:08Z,2026-09-26T14:06:14Z,TE-CS-0138
+TE-AL-0139,TE-AS-01,Synthetic data exfiltration indicator,low,2026-09-27T00:26:41Z,,TE-CS-0139
+TE-AL-0140,TE-AS-06,Synthetic privilege escalation attempt,high,2026-09-27T02:31:57Z,,TE-CS-0140
+TE-AL-0141,TE-AS-02,Synthetic phishing report,high,2026-09-27T04:09:44Z,,TE-CS-0141
+TE-AL-0142,TE-AS-11,Synthetic phishing report,info,2026-09-27T07:14:37Z,,TE-CS-0142
+TE-AL-0143,TE-AS-10,Synthetic phishing report,high,2026-09-27T16:03:48Z,2026-09-27T16:09:30Z,TE-CS-0143
+TE-AL-0144,TE-AS-01,Synthetic policy violation,high,2026-09-27T21:27:52Z,,TE-CS-0144
+TE-AL-0145,TE-AS-07,Synthetic data exfiltration indicator,low,2026-09-28T02:47:44Z,,TE-CS-0145
+TE-AL-0146,TE-AS-03,Synthetic network scan,critical,2026-09-28T03:47:12Z,2026-09-28T04:10:30Z,TE-CS-0146
+TE-AL-0147,TE-AS-02,Synthetic policy violation,medium,2026-09-28T16:18:55Z,,TE-CS-0147
+TE-AL-0148,TE-AS-09,Synthetic lateral movement indicator,medium,2026-09-29T02:01:18Z,,TE-CS-0148
+TE-AL-0149,TE-AS-05,Synthetic network scan,medium,2026-09-29T04:16:01Z,,TE-CS-0149
+TE-AL-0150,TE-AS-02,Synthetic configuration drift,medium,2026-09-29T06:12:53Z,,TE-CS-0150
+TE-AL-0151,TE-AS-01,Synthetic phishing report,low,2026-09-29T07:45:54Z,,TE-CS-0151
+TE-AL-0152,TE-AS-11,Synthetic network scan,medium,2026-09-29T12:54:49Z,,TE-CS-0152
+TE-AL-0153,TE-AS-12,Synthetic network scan,medium,2026-09-29T14:48:35Z,,TE-CS-0153
+TE-AL-0154,TE-AS-12,Synthetic malware detection,info,2026-09-29T17:40:19Z,,TE-CS-0154
+TE-AL-0155,TE-AS-10,Synthetic malware detection,medium,2026-09-29T17:41:41Z,,TE-CS-0155
+TE-AL-0156,TE-AS-10,Synthetic authentication anomaly,medium,2026-09-29T23:59:51Z,,TE-CS-0156
+TE-AL-0157,TE-AS-12,Synthetic configuration drift,medium,2026-09-30T02:50:01Z,,TE-CS-0157
+TE-AL-0158,TE-AS-10,Synthetic data exfiltration indicator,medium,2026-09-30T03:24:48Z,,TE-CS-0158
+TE-AL-0159,TE-AS-12,Synthetic lateral movement indicator,low,2026-09-30T05:27:24Z,,TE-CS-0159
+TE-AL-0160,TE-AS-08,Synthetic phishing report,medium,2026-09-30T07:46:49Z,,TE-CS-0160

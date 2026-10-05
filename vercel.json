@@ -1,0 +1,27 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": "web",
+  "regions": ["sin1"],
+  "functions": {
+    "api/index.py": {
+      "maxDuration": 60,
+      "excludeFiles": "{data/**,backups/**,tests/**,docs/**,.architecture-build/**,sat-sa/**,verification/**,**/__pycache__/**}"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "/api/index?__satsa_path=/api/:path*" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "same-origin" },
+        { "key": "Cache-Control", "value": "no-store" },
+        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; font-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+event_id,case_id,event_type,performed_at,actor_role,evidence_reference,result
+NOR-09-CASE-0002-investigation,NOR-09-CASE-0002,investigation,2026-09-02T08:10:12+00:00,Analyst,SYN-EVIDENCE-1-investigation,success
+NOR-09-CASE-0002-response,NOR-09-CASE-0002,response,2026-09-02T08:19:24+00:00,Analyst,SYN-EVIDENCE-1-response,success
+NOR-09-CASE-0003-investigation,NOR-09-CASE-0003,investigation,2026-09-03T09:11:24+00:00,Analyst,SYN-EVIDENCE-2-investigation,success
+NOR-09-CASE-0003-response,NOR-09-CASE-0003,response,2026-09-03T09:20:48+00:00,Analyst,SYN-EVIDENCE-2-response,success
+NOR-09-CASE-0004-investigation,NOR-09-CASE-0004,investigation,2026-09-04T10:12:36+00:00,Analyst,SYN-EVIDENCE-3-investigation,success
+NOR-09-CASE-0004-response,NOR-09-CASE-0004,response,2026-09-04T10:22:12+00:00,Analyst,SYN-EVIDENCE-3-response,success
+NOR-09-CASE-0005-investigation,NOR-09-CASE-0005,investigation,2026-09-05T11:13:48+00:00,Analyst,SYN-EVIDENCE-4-investigation,success
+NOR-09-CASE-0005-response,NOR-09-CASE-0005,response,2026-09-05T11:23:36+00:00,Analyst,SYN-EVIDENCE-4-response,success
+NOR-09-CASE-0006-investigation,NOR-09-CASE-0006,investigation,2026-09-06T12:15:00+00:00,Analyst,SYN-EVIDENCE-5-investigation,success
+NOR-09-CASE-0006-response,NOR-09-CASE-0006,response,2026-09-06T12:25:00+00:00,Analyst,SYN-EVIDENCE-5-response,success
+NOR-09-CASE-0006-oversight,NOR-09-CASE-0006,oversight,2026-09-06T12:35:00+00:00,Duty lead,SYN-EVIDENCE-5-oversight,success
+NOR-09-CASE-0007-investigation,NOR-09-CASE-0007,investigation,2026-09-07T13:16:12+00:00,Analyst,SYN-EVIDENCE-6-investigation,success
+NOR-09-CASE-0007-response,NOR-09-CASE-0007,response,2026-09-07T13:26:24+00:00,Analyst,SYN-EVIDENCE-6-response,success
+NOR-09-CASE-0008-investigation,NOR-09-CASE-0008,investigation,2026-09-08T14:17:24+00:00,Analyst,SYN-EVIDENCE-7-investigation,success
+NOR-09-CASE-0008-response,NOR-09-CASE-0008,response,2026-09-08T14:27:48+00:00,Analyst,SYN-EVIDENCE-7-response,success
+NOR-09-CASE-0009-investigation,NOR-09-CASE-0009,investigation,2026-09-09T15:18:36+00:00,Analyst,SYN-EVIDENCE-8-investigation,success
+NOR-09-CASE-0009-response,NOR-09-CASE-0009,response,2026-09-09T15:29:12+00:00,Analyst,SYN-EVIDENCE-8-response,success
+NOR-09-CASE-0010-investigation,NOR-09-CASE-0010,investigation,2026-09-10T16:19:48+00:00,Analyst,SYN-EVIDENCE-9-investigation,success
+NOR-09-CASE-0010-response,NOR-09-CASE-0010,response,2026-09-10T16:30:36+00:00,Analyst,SYN-EVIDENCE-9-response,success
+NOR-09-CASE-0011-investigation,NOR-09-CASE-0011,investigation,2026-09-11T07:21:00+00:00,Analyst,SYN-EVIDENCE-10-investigation,success
+NOR-09-CASE-0011-response,NOR-09-CASE-0011,response,2026-09-11T07:32:00+00:00,Analyst,SYN-EVIDENCE-10-response,success
+NOR-09-CASE-0011-oversight,NOR-09-CASE-0011,oversight,2026-09-11T07:43:00+00:00,Duty lead,SYN-EVIDENCE-10-oversight,success
+NOR-09-CASE-0011-recovery,NOR-09-CASE-0011,recovery,2026-09-11T07:54:00+00:00,Analyst,SYN-EVIDENCE-10-recovery,failed
+NOR-09-CASE-0012-investigation,NOR-09-CASE-0012,investigation,2026-09-12T08:20:00+00:00,Analyst,SYN-EVIDENCE-11-investigation,success
+NOR-09-CASE-0012-response,NOR-09-CASE-0012,response,2026-09-12T08:29:00+00:00,Analyst,SYN-EVIDENCE-11-response,success
+NOR-09-CASE-0013-investigation,NOR-09-CASE-0013,investigation,2026-09-13T09:21:12+00:00,Analyst,SYN-EVIDENCE-12-investigation,success
+NOR-09-CASE-0013-response,NOR-09-CASE-0013,response,2026-09-13T09:30:24+00:00,Analyst,SYN-EVIDENCE-12-response,success
+NOR-09-CASE-0014-investigation,NOR-09-CASE-0014,investigation,2026-09-14T10:22:24+00:00,Analyst,SYN-EVIDENCE-13-investigation,success
+NOR-09-CASE-0014-response,NOR-09-CASE-0014,response,2026-09-14T10:31:48+00:00,Analyst,SYN-EVIDENCE-13-response,success
+NOR-09-CASE-0015-investigation,NOR-09-CASE-0015,investigation,2026-09-15T11:23:36+00:00,Analyst,SYN-EVIDENCE-14-investigation,success
+NOR-09-CASE-0015-response,NOR-09-CASE-0015,response,2026-09-15T11:33:12+00:00,Analyst,SYN-EVIDENCE-14-response,success
+NOR-09-CASE-0016-investigation,NOR-09-CASE-0016,investigation,2026-09-16T12:24:48+00:00,Analyst,SYN-EVIDENCE-15-investigation,success
+NOR-09-CASE-0016-response,NOR-09-CASE-0016,response,2026-09-16T12:34:36+00:00,Analyst,SYN-EVIDENCE-15-response,success
+NOR-09-CASE-0016-oversight,NOR-09-CASE-0016,oversight,2026-09-16T12:44:24+00:00,Duty lead,SYN-EVIDENCE-15-oversight,success
+NOR-09-CASE-0017-investigation,NOR-09-CASE-0017,investigation,2026-09-17T13:26:00+00:00,Analyst,SYN-EVIDENCE-16-investigation,success
+NOR-09-CASE-0017-response,NOR-09-CASE-0017,response,2026-09-17T13:36:00+00:00,Analyst,SYN-EVIDENCE-16-response,success
+NOR-09-CASE-0018-investigation,NOR-09-CASE-0018,investigation,2026-09-18T14:27:12+00:00,Analyst,SYN-EVIDENCE-17-investigation,success
+NOR-09-CASE-0018-response,NOR-09-CASE-0018,response,2026-09-18T14:37:24+00:00,Analyst,SYN-EVIDENCE-17-response,success
+NOR-09-CASE-0019-investigation,NOR-09-CASE-0019,investigation,2026-09-19T15:28:24+00:00,Analyst,SYN-EVIDENCE-18-investigation,success
+NOR-09-CASE-0019-response,NOR-09-CASE-0019,response,2026-09-19T15:38:48+00:00,Analyst,SYN-EVIDENCE-18-response,success
+NOR-09-CASE-0020-investigation,NOR-09-CASE-0020,investigation,2026-09-20T16:29:36+00:00,Analyst,SYN-EVIDENCE-19-investigation,success
+NOR-09-CASE-0020-response,NOR-09-CASE-0020,response,2026-09-20T16:40:12+00:00,Analyst,SYN-EVIDENCE-19-response,success
+NOR-09-CASE-0021-investigation,NOR-09-CASE-0021,investigation,2026-09-21T07:30:48+00:00,Analyst,SYN-EVIDENCE-20-investigation,success
+NOR-09-CASE-0021-response,NOR-09-CASE-0021,response,2026-09-21T07:41:36+00:00,Analyst,SYN-EVIDENCE-20-response,success
+NOR-09-CASE-0021-oversight,NOR-09-CASE-0021,oversight,2026-09-21T07:52:24+00:00,Duty lead,SYN-EVIDENCE-20-oversight,success
+NOR-09-CASE-0021-recovery,NOR-09-CASE-0021,recovery,2026-09-21T08:03:12+00:00,Analyst,SYN-EVIDENCE-20-recovery,failed
+NOR-09-CASE-0022-investigation,NOR-09-CASE-0022,investigation,2026-09-22T08:32:00+00:00,Analyst,SYN-EVIDENCE-21-investigation,success
+NOR-09-CASE-0022-response,NOR-09-CASE-0022,response,2026-09-22T08:43:00+00:00,Analyst,SYN-EVIDENCE-21-response,success
+NOR-09-CASE-0023-investigation,NOR-09-CASE-0023,investigation,2026-09-23T09:31:00+00:00,Analyst,SYN-EVIDENCE-22-investigation,success
+NOR-09-CASE-0023-response,NOR-09-CASE-0023,response,2026-09-23T09:40:00+00:00,Analyst,SYN-EVIDENCE-22-response,success
+NOR-09-CASE-0024-investigation,NOR-09-CASE-0024,investigation,2026-09-24T10:32:12+00:00,Analyst,SYN-EVIDENCE-23-investigation,success
+NOR-09-CASE-0024-response,NOR-09-CASE-0024,response,2026-09-24T10:41:24+00:00,Analyst,SYN-EVIDENCE-23-response,success
+NOR-09-CASE-0025-investigation,NOR-09-CASE-0025,investigation,2026-09-25T11:33:24+00:00,Analyst,SYN-EVIDENCE-24-investigation,success
+NOR-09-CASE-0025-response,NOR-09-CASE-0025,response,2026-09-25T11:42:48+00:00,Analyst,SYN-EVIDENCE-24-response,success
+NOR-09-CASE-0026-investigation,NOR-09-CASE-0026,investigation,2026-09-26T12:34:36+00:00,Analyst,SYN-EVIDENCE-25-investigation,success
+NOR-09-CASE-0026-response,NOR-09-CASE-0026,response,2026-09-26T12:44:12+00:00,Analyst,SYN-EVIDENCE-25-response,success
+NOR-09-CASE-0026-oversight,NOR-09-CASE-0026,oversight,2026-09-26T12:53:48+00:00,Duty lead,SYN-EVIDENCE-25-oversight,success
+NOR-09-CASE-0027-investigation,NOR-09-CASE-0027,investigation,2026-09-27T13:35:48+00:00,Analyst,SYN-EVIDENCE-26-investigation,success
+NOR-09-CASE-0027-response,NOR-09-CASE-0027,response,2026-09-27T13:45:36+00:00,Analyst,SYN-EVIDENCE-26-response,success
+NOR-09-CASE-0028-investigation,NOR-09-CASE-0028,investigation,2026-09-01T14:37:00+00:00,Analyst,SYN-EVIDENCE-27-investigation,success
+NOR-09-CASE-0028-response,NOR-09-CASE-0028,response,2026-09-01T14:47:00+00:00,Analyst,SYN-EVIDENCE-27-response,success
+NOR-09-CASE-0029-investigation,NOR-09-CASE-0029,investigation,2026-09-02T15:38:12+00:00,Analyst,SYN-EVIDENCE-28-investigation,success
+NOR-09-CASE-0029-response,NOR-09-CASE-0029,response,2026-09-02T15:48:24+00:00,Analyst,SYN-EVIDENCE-28-response,success
+NOR-09-CASE-0030-investigation,NOR-09-CASE-0030,investigation,2026-09-03T16:39:24+00:00,Analyst,SYN-EVIDENCE-29-investigation,success
+NOR-09-CASE-0030-response,NOR-09-CASE-0030,response,2026-09-03T16:49:48+00:00,Analyst,SYN-EVIDENCE-29-response,success
+NOR-09-CASE-0031-investigation,NOR-09-CASE-0031,investigation,2026-09-04T07:40:36+00:00,Analyst,SYN-EVIDENCE-30-investigation,success
+NOR-09-CASE-0031-response,NOR-09-CASE-0031,response,2026-09-04T07:51:12+00:00,Analyst,SYN-EVIDENCE-30-response,success
+NOR-09-CASE-0031-oversight,NOR-09-CASE-0031,oversight,2026-09-04T08:01:48+00:00,Duty lead,SYN-EVIDENCE-30-oversight,success
+NOR-09-CASE-0031-recovery,NOR-09-CASE-0031,recovery,2026-09-04T08:12:24+00:00,Analyst,SYN-EVIDENCE-30-recovery,success
+NOR-09-CASE-0033-investigation,NOR-09-CASE-0033,investigation,2026-09-06T09:43:00+00:00,Analyst,SYN-EVIDENCE-32-investigation,success
+NOR-09-CASE-0033-response,NOR-09-CASE-0033,response,2026-09-06T09:54:00+00:00,Analyst,SYN-EVIDENCE-32-response,success
+NOR-09-CASE-0034-investigation,NOR-09-CASE-0034,investigation,2026-09-07T10:42:00+00:00,Analyst,SYN-EVIDENCE-33-investigation,success
+NOR-09-CASE-0034-response,NOR-09-CASE-0034,response,2026-09-07T10:51:00+00:00,Analyst,SYN-EVIDENCE-33-response,success
+NOR-09-CASE-0035-investigation,NOR-09-CASE-0035,investigation,2026-09-08T11:43:12+00:00,Analyst,SYN-EVIDENCE-34-investigation,success
+NOR-09-CASE-0035-response,NOR-09-CASE-0035,response,2026-09-08T11:52:24+00:00,Analyst,SYN-EVIDENCE-34-response,success
+NOR-09-CASE-0036-investigation,NOR-09-CASE-0036,investigation,2026-09-09T12:44:24+00:00,Analyst,SYN-EVIDENCE-35-investigation,success
+NOR-09-CASE-0036-response,NOR-09-CASE-0036,response,2026-09-09T12:53:48+00:00,Analyst,SYN-EVIDENCE-35-response,success
+NOR-09-CASE-0036-oversight,NOR-09-CASE-0036,oversight,2026-09-09T13:03:12+00:00,Duty lead,SYN-EVIDENCE-35-oversight,success
+NOR-09-CASE-0037-investigation,NOR-09-CASE-0037,investigation,2026-09-10T13:45:36+00:00,Analyst,SYN-EVIDENCE-36-investigation,success
+NOR-09-CASE-0037-response,NOR-09-CASE-0037,response,2026-09-10T13:55:12+00:00,Analyst,SYN-EVIDENCE-36-response,success
+NOR-09-CASE-0038-investigation,NOR-09-CASE-0038,investigation,2026-09-11T14:46:48+00:00,Analyst,SYN-EVIDENCE-37-investigation,success
+NOR-09-CASE-0038-response,NOR-09-CASE-0038,response,2026-09-11T14:56:36+00:00,Analyst,SYN-EVIDENCE-37-response,success
+NOR-09-CASE-0039-investigation,NOR-09-CASE-0039,investigation,2026-09-12T15:48:00+00:00,Analyst,SYN-EVIDENCE-38-investigation,success
+NOR-09-CASE-0039-response,NOR-09-CASE-0039,response,2026-09-12T15:58:00+00:00,Analyst,SYN-EVIDENCE-38-response,success
+NOR-09-CASE-0040-investigation,NOR-09-CASE-0040,investigation,2026-09-13T16:49:12+00:00,Analyst,SYN-EVIDENCE-39-investigation,success
+NOR-09-CASE-0040-response,NOR-09-CASE-0040,response,2026-09-13T16:59:24+00:00,Analyst,SYN-EVIDENCE-39-response,success

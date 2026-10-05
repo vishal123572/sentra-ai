@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "entity": "SYNTHETIC \u00b7 Meridian Energy",
+  "period_start": "2026-09-01T00:00:00+00:00",
+  "period_end": "2026-10-01T00:00:00+00:00",
+  "planted_evidence_ids": {
+    "fast_closure": [],
+    "missing_escalation": [],
+    "repeated_notes": [],
+    "coverage_gap": [],
+    "unlinked_case": [],
+    "closure_outlier": [],
+    "sla_edge": [],
+    "recurring_alerts": [],
+    "expected_category": [],
+    "workflow_gap": [],
+    "oversight_gap": [],
+    "recovery_gap": []
+  }
+}

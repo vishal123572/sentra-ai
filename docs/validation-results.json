@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-10-04T13:25:12.336341+00:00",
+  "python": "3.12.14",
+  "tests_run": 51,
+  "failures": 0,
+  "errors": 0,
+  "offline_workflow": "passed with socket connections blocked",
+  "frontend_render_checks": {
+    "status": "passed",
+    "limitation": "No browser automation: checks rendering functions and escaping only.",
+    "output": "PASS overview\nPASS entitiesPage\nPASS findingsPage\nPASS reviewPage\nPASS uploadPage\nPASS reportsPage\nPASS methodologyPage\nPASS untrusted text escaping\nPASS assessment workflow, record tabs, finding tabs and explanation escaping\n",
+    "http_action_workflow": {
+      "status": "passed",
+      "output": "PASS login \u2192 bundle load \u2192 validate \u2192 import \u2192 assessment \u2192 ranked sample \u2192 record explanations \u2192 source/timeline \u2192 examiner decision \u2192 refreshed evidence \u2192 independent evidence \u2192 saved observation \u2192 blinded export \u2192 expert comparison \u2192 HTML export\n",
+      "limitation": "Actual frontend handlers and HTTP server; DOM is stubbed, so not a browser/layout check."
+    }
+  },
+  "performance": {
+    "alerts": 10000,
+    "cases": 10000,
+    "total_source_records": 44208,
+    "payload_bytes": 8412075,
+    "ingest_and_analyse_seconds_with_tracemalloc": 7.69,
+    "peak_python_allocations_mib": 62.57,
+    "findings": 9,
+    "limitation": "Single synthetic in-process import with allocation tracing. Not HTTP load, browser, RSS or production-capacity certification."
+  },
+  "not_validated": [
+    "Browser interactions and visual layout",
+    "Docker execution",
+    "Real SOC expert-labelled efficacy",
+    "Production security/load readiness"
+  ]
+}

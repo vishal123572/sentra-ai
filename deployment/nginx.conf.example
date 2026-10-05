@@ -1,0 +1,15 @@
+# Internal TLS example. Supply local certificate paths and your internal DNS name.
+# Set SATSA_SECURE_COOKIE=1 in the service environment when accessing via HTTPS.
+server {
+    listen 443 ssl;
+    server_name satsa.internal;
+    ssl_certificate /etc/nginx/certs/satsa.crt;
+    ssl_certificate_key /etc/nginx/certs/satsa.key;
+    client_max_body_size 24m;
+    location / {
+        proxy_pass http://127.0.0.1:8080;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_read_timeout 180s;
+    }
+}

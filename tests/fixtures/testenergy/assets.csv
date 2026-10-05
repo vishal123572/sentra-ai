@@ -1,0 +1,13 @@
+asset_id,asset_type,criticality,expected_monitoring,name
+TE-AS-01,ot_controller,critical,true,SYNTHETIC TestEnergy Wind Farm Controller
+TE-AS-02,server,critical,true,SYNTHETIC TestEnergy Energy Trading Server
+TE-AS-03,database,critical,true,SYNTHETIC TestEnergy Metering Database
+TE-AS-04,gateway,critical,true,SYNTHETIC TestEnergy Remote Access Gateway
+TE-AS-05,server,high,true,SYNTHETIC TestEnergy Domain Controller
+TE-AS-06,workstation,high,true,SYNTHETIC TestEnergy Operator Workstation
+TE-AS-07,network_device,high,true,SYNTHETIC TestEnergy Site Core Switch
+TE-AS-08,server,medium,true,SYNTHETIC TestEnergy File Server
+TE-AS-09,workstation,medium,true,SYNTHETIC TestEnergy Engineering Laptop Pool
+TE-AS-10,server,medium,true,SYNTHETIC TestEnergy Print Server
+TE-AS-11,web,low,false,SYNTHETIC TestEnergy Public Information Site
+TE-AS-12,server,low,false,SYNTHETIC TestEnergy Training Lab Server

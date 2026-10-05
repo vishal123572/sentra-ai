@@ -1,0 +1,17 @@
+data/
+backups/
+verification/
+tests/
+docs/
+.architecture-build/
+sat-sa/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.sqlite3
+*.sqlite3-*
+.env
+.env.*
+.git/
+MANIFEST.json
+deployment/

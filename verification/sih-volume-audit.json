@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-10-05T14:10:05.533507+00:00",
+  "python": "3.13.7",
+  "alerts": 10000,
+  "cases": 10000,
+  "source_rows": 44208,
+  "serialized_payload_bytes": 8412049,
+  "ingest_seconds_with_allocation_tracing": 10.13,
+  "peak_traced_python_allocations_mib": 64.58,
+  "finding_groups": 9,
+  "fits_hosted_4_mib_request": false,
+  "fits_local_24_mib_request": true,
+  "limitation": "One synthetic in-process SQLite import. Not a live Vercel, browser, concurrency, RSS or production-scale benchmark."
+}

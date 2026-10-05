@@ -1,0 +1,24 @@
+data/
+__pycache__/
+*.pyc
+*.sqlite3
+*.sqlite3-*
+.env
+.env.*
+!.env.example
+.vercel/
+node_modules/
+.npm-cache/
+backups/
+
+.agents/
+.claude/
+skills-lock.json
+*.log
+# Manifest belongs to the original ZIP; Git records the current source revision.
+MANIFEST.json
+
+# Keep portable deployment examples, but exclude local credentials and helpers.
+deployment/*
+!deployment/nginx.conf.example
+!deployment/satsa.service
